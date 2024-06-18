@@ -1,0 +1,8 @@
+Planilla de Sueldos - Cargo: Analista de datos
+=================================================
+Nombre: David Fuentes
+Sueldo Bruto: 550000.0
+Descuento Salud: 70000
+Descuento AFP: 120000
+Líquido a pagar: 360000.0
+-------------------------------------------------
